@@ -1,0 +1,26 @@
+- Antelmi, A., Cordasco, G., Spagnuolo, C. & Vicidomini, L. (2015). On Evaluating Graph Partitioning Algorithms for Distributed Agent Based Models on Networks. _European Conference on Parallel Processing_.
+- Bharti, R. (2016). HIVE - An Agent Based Modeling Framework. _Master's Projects_.
+- Chenney, S. (2001). Simulation Level-of-Detail. _Game Developers Conference_.
+- Chenney, S. Simulation Culling and Level-of-Detail. _IEEE Computer Graphics and Applications_.
+- Chenney, S., Arikan, O. & Forsyth, D. (2001). Proxy Simulations for Efficient Dynamics. _EUROGRAPHICS_.
+- Chris Rouly, O. (2014). Midwife: CPU cluster load distribution of Virtual Agent AIs. _Complex, Intelligent and Software Intensive Systems (CISIS)_.
+- He, M., Ruan, H. & Yu, C. (2003). A Predator-Prey Model Based on the Fully Parallel Cellular Automata. _International Journal of Modern Physics C_.
+- Holcombe, M., Coakley, S., Kiran, M., Chin, S., Greenough, C., Worth, D., Cincotti, S., Raberto, M., Teglio, A., Deissenberg, C., van der Hoog, S., Dawid, H., Gemkow, S., Harting, P. & Neugart, M. (2013). Large-Scale Modeling of Economic Systems. _Complex Systems, 22_.
+- K. Bansal, A. (2006). Incorporating Fault Tolerance in Distributed Agent Based Systems by Simulating Bio-computing Model of Stress Pathways. _Proceedings of SPIE, 6201_.
+- K. Som, T. & G. Sargen, R. (2000). Model Structure and Load Balancing in Optimistic Parallel Discrete Event Simulation. _Proceedings of the Fourteenth Workshop on Parallel and Distributed Simulation_.
+- Kim, I., Tsou, M. & Feng, C. (2015). Design and implementation strategy of a parallel agent-based Schelling model. _Computers, Environment and Urban Systems, 49_(2015), pp. 30-41.
+- Kubalík, J., Tichý, P., Šindelář, R. & J. Staron, R. (2010). Clustering Methods for Agent Distribution Optimization. _IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)_.
+- Lees, M., Logan, B., Oguara, T. & Theodoropoulos, G. (2004). Simulating Agent-Based Systems with HLA: The Case of SIM_AGENT - Part II. _International Conference on Computational Science_.
+- Logan, B. & Theodoropoulos, G. (2001). The Distributed Simulation of Multi-Agent Systems. _Proceedings of the IEEE, 89_(2).
+- Lysenko, M. & M. D'Souza, R. (2008). A Framework for Megascale Agent Based Model Simulations on Graphics Processing Units. _Journal of Artificial Societies and Social Simluation, 11_(4/10). <http://jasss.soc.survey.ac.uk/11/4/10.html>.
+- Márquez, C., César, E. & Sorribes, J. (2015). Graph-Based Automatic Dynamic Load Balancing for HPC Agent-Based Simulations. _European Conference on Parallel Processing_.
+- Navarro, L., Flacher, F. & Corruble, V. (2011). Dynamic Level of Detail for Large Scale Agent-Based Urban Simulations. _Proceedings of 10th International Conference on Autonomous Agents and Multiagent Systems_, pp. 701-708.
+- Oey, M., van Splunter, S., Ogston, E., Warnier, M. & M.T. Brazier, F. (2010). A Framework for Developing Agent-Based Distributed Applications. _BNAIC 2010: 22rd Benelux Conference on Artificial Intelligence_.
+- Pleisch, S. & Schiper, A. (2000). Modeling Fault-Tolerant Mobile Agent Execution as a Sequence of Agreement Problems. _Reliable Distributed Systems_.
+- Richiardi, M. & Fagiolo, G. (2014). Empirical Validation of Agent-Based Models.
+- Rousset, A., Herrmann, B., Lang, C. & Philippe, L. (2015). A communication schema for parallel and distributed Multi-Agent Systems based on MPI. _European Conference on Parallel Processing_.
+- Rubio-Campillo, X. (2014). Pandora: A Versatile Agent-Based Modelling Platform for Social Simulation. _SIMUL 2014: The Sixth International Conference on Advances in System Simulation_.
+- Scheutz, M. & Schermerhorn, P. (2006). Adaptive Algorithms for the Dynamic Distribution and Parallel Execution of Agent-Based Models. _Journal of Parallel and Distributed Computing_.
+- Sunshine-Hill, B. (2013). Managing Simulation Level-of-Detail with the LOD Trader. _Motion in Games_.
+- Tsugawa, S., Ohsaki, H. & Imase, M. (2012). Lightweight Distributed Method for Connectvity-Based Clustering Based on Schelling's Model. _26th International Conference on Advanced Information Networking and Applications Workshops_.
+- Vecchiola, C., Grosso, A., Passadore, A. & Boccalatte, A. (2009). AgentService: A Framework for Distributed Multi-Agent System DEvelopment. _International Journal of Computers and Applications, 31_(3), pp. 204-210.
